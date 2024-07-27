@@ -1,4 +1,4 @@
-## Hi there my name is Jaroslav Vymětal👋
+## Hi there my name is Jaroslav Vymětal 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vym38224&layout=compact)
 
