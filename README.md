@@ -1,6 +1,5 @@
-## Hi there my name is Jaroslav Vymětal 👋
+## Hi there my name is Jaroslav Vymětal👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vym38224&layout=compact)
 
 <!--
 **Vym38224/Vym38224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
