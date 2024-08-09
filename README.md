@@ -1,4 +1,4 @@
-## Hi there my name is Jaroslav Vymětal👋
+## Hi there my name is Jaroslav Vymětal
 
 
 <!--
