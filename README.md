@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jaroslav Vymětal</h1>
 <h3 align="center">Student of Information Technology</h3>
-<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
