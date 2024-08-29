@@ -27,7 +27,7 @@
       </p>
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center; border: none;">
-      <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="500"/>
+      <img src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" width="auto"/>
     </td>
   </tr>
 </table>
